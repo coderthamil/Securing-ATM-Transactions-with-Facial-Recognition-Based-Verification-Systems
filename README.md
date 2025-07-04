@@ -38,3 +38,21 @@ BOOTSTRAP,FLASK, TENSORFLOW,CNN.
 
 
 
+
+## Run Locally
+
+##need python 3.7.15, Wamp Server.
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+run main.py file > open with idle
+
+run wamp server on your PC
+
+now run main.py file enter the url(localhost:5000) in your browser
+
